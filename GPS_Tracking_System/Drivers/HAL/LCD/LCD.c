@@ -1,4 +1,3 @@
-
 #include "HAL/LCD/LCD.h"
 
  volatile uint32_t LCD_DELAY=0;
