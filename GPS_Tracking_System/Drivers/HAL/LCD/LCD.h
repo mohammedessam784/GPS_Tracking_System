@@ -1,5 +1,3 @@
-
-
 #ifndef LCD
 #define LCD
 
